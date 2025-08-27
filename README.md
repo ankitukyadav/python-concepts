@@ -16,5 +16,5 @@ Welcome to my Python learning journey! This repository contains various Python s
 1. Make sure you have Python 3.6+ installed
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/python-learning.git
-   cd python-learning
+   git clone https://github.com/ankitukyadav/python-concepts.git
+   cd python-concepts
