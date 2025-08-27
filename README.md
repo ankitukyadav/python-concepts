@@ -2,7 +2,7 @@
 
 Welcome to my Python learning journey! This repository contains various Python scripts that demonstrate fundamental programming concepts.
 
-c📚 What's Inside
+## 📚 What's Inside
 
 ### Basic Python Concepts
 - **01_variables_and_data_types.py** - Introduction to Python data types and variables
