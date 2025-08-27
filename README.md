@@ -2,7 +2,7 @@
 
 Welcome to my Python learning journey! This repository contains various Python scripts that demonstrate fundamental programming concepts.
 
-## 📚 What's Inside
+c📚 What's Inside
 
 ### Basic Python Concepts
 - **01_variables_and_data_types.py** - Introduction to Python data types and variables
@@ -18,3 +18,18 @@ Welcome to my Python learning journey! This repository contains various Python s
    ```bash
    git clone https://github.com/ankitukyadav/python-concepts.git
    cd python-concepts
+
+Run any script:
+bash
+python basic_python_concepts/01_variables_and_data_types.py
+
+## 📖 Learning Objectives
+Each script is designed to teach specific Python concepts:
+- Data Types: Understanding integers, floats, strings, lists, dictionaries, etc.
+- Control Flow: Making decisions and repeating actions in your code
+- Functions: Creating reusable code blocks and understanding scope
+- OOP: Classes, objects, inheritance, and encapsulation
+- File Handling: Reading from and writing to files safely
+- Error Handling: Managing exceptions gracefully
+
+  
